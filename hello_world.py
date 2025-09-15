@@ -1,1 +1,1 @@
-print("Hi there").py
+print("Hi there")
